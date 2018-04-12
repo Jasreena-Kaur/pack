@@ -5,7 +5,7 @@ public class StringBufferDemo {
 	public void chk()
 	{
 		StringBuilder sb=new StringBuilder("Hello"); 
-		sb.append("Java");
+		sb.append("Java Commit change");
 		System.out.println(sb);
 	}	
 	public void chk1()
