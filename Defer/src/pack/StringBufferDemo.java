@@ -7,6 +7,7 @@ public class StringBufferDemo {
 		StringBuilder sb=new StringBuilder("Hello"); 
 		sb.append("Java");
 		System.out.println(sb);
+		System.out.println("Jasreena kaur");
 	}	
 	public void chk1()
 	{
